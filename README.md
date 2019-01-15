@@ -24,7 +24,7 @@
 ## Outputs
 
 | Name | Description | Example |
-|------|-------------|----------|---------|
+|------|-------------|----------|
 | public\_ip | VM's Public IP addresses. | |
 | vm-id | VM Azure id. | |
 | vm-name | VM name. |```"myvm"``` |
